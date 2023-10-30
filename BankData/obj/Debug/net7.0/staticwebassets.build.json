@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d9IOYeSIXsX8p3IQgvApkJ48cgoaFYDuBTbjgyIUv/s=",
+  "Source": "BankData",
+  "BasePath": "_content/BankData",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
